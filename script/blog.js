@@ -1,6 +1,7 @@
 const headOne = document.createElement('h2');
-headOne.textContent = 'Adoptadog Blog';
-document.getElementById("container").appendChild(headOne);
+headOne.setAttribute('class', 'jsh2');
+headOne.textContent = 'Adoptadog Blog!';
+document.getElementById("title_up").appendChild(headOne);
 
 const i = [{
 		img: "img/blog-1.jpg",
