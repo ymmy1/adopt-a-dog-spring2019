@@ -1,34 +1,22 @@
-# [Dog Adoption](https://ymmy1.github.io/adopt-a-dog-spring2019/)
-*The web-page to adopt your new best friend!*
+# <img src="https://i.imgur.com/Eb5Clz4.png" alt="drawing" width="40px"/> Adopt A Dog
+![](https://i.imgur.com/86cotGZ.png)
 
-## Description
+## <img src="https://i.imgur.com/H3kbxUK.png" alt="drawing" width="40px"/> Front End Web Development With HTML, CSS & JavaScript project #2
 
-The web-page is made for people looking to adopt a dog. We have over 12 dogs
-available at the moment.
+## Use the app on GitHub Pages
 
-* Designed with the enthusiast in mind
+### https://ymmy1.github.io/adopt-a-dog-spring2019/
 
 
-Our list of dogs:
+## Usage
 
-* Dog Murphy - Beagle
-* Dog Poppy - Beagle
-* Dog Jack - Beagle
-* Dog Duffy - Beagle
-* Dog Lucas - Beagle
-* Dog Jake - Beagle
-* Dog Angus - Beagle
-* Dog Violet - Beagle
-* Dog Piper - Beagle
-* Dog Maximux - Beagle
-* Dog Luna - Beagle
-* Dog Stela - Beagle
+* Resize, the project's goal was to make a fully responsive website for pc, tablets..
 
-See the [dog list](https://ymmy1.github.io/adopt-a-dog-spring2019/dogs.html) for a complete list
-of dogs, and for pictures to help to chose a dog you like!  The
-[blog](https://ymmy1.github.io/adopt-a-dog-spring2019/blog.html) shows stories about
-many different types of people having their dog around.
+![](https://i.imgur.com/viWt2T7.png)
 
-<h2>Licensing</h2>
+* And mobile phones
 
-No Licensing
+![](https://i.imgur.com/bCRAgC0.png)
+
+
+### Feel free to suggest some improvements! 
